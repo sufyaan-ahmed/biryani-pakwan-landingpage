@@ -1,0 +1,7 @@
+{
+  "name": "Haroon Biryani and Pakwan Center",
+  "description": "The Yummiest Biryani in Al-Falah. Serving authentic Biryani, Beef Pulao, and Chicken Pulao in Karachi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
